@@ -6,6 +6,7 @@ Console.WriteLine();
 
 var endereco = new AddressFaker().Generate();
 var company = new CompanyFaker().Generate();
+var finance = new FinanceFaker().Generate();
 
 Console.WriteLine();
 
